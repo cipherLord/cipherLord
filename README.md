@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cipherLord/cipherLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sarthak here
 
 - 🔭 I’m currently working on understanding the Synergy and Variations in Human vs. Machine Cognition in Problem Solving.
