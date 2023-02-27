@@ -3,7 +3,7 @@
 Sarthak here
 
 - 🔭 Currently I work in Cisco Systems Pvt. Ltd. (hates Bitbucket with passion)
-- 🌱 I’m currently working on implementing [JigsawNet](https://arxiv.org/pdf/1809.04137.pdf) and [LSTNet](https://arxiv.org/pdf/1703.07015.pdf)
+- 🌱 K8s Lover
 - :cowboy_hat_face: Member of the C3PO and metadata-extractor team at [LTTKGP](https://github.com/lttkgp)
 - 📫 How to reach me: sarthakjohnsonprasad@gmail.com
 - 😄 Pronouns: He/Him
